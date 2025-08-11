@@ -32,7 +32,7 @@ python main.py
 
 ## 📷 Example
 **Input image**  
-<img src="images/sample.jpg" width="300">
+<img src="images/fox.jpg" width="300">
 
 **Segmented output**  
 <img src="output/segmented_sample.jpg" width="300">
