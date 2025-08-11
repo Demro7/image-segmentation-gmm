@@ -9,10 +9,13 @@ It starts by using **K-Means clustering** to initialize the GMM parameters, then
 ├── main.py                # Main script to run the segmentation
 ├── utils/
 │   └── utils.py           # Helper functions (load_image, colors, etc.)
-├── images/                # Input images for segmentation
+├── images/
+│   ├── input/             # Input images for segmentation
+│   └── output/            # Segmented output images
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 ```
+
 
 ## 🛠 Requirements
 Install the required packages before running the project:
