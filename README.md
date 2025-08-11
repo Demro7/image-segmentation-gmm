@@ -35,10 +35,10 @@ python main.py
 
 ## 📷 Example
 **Input image**  
-<img src="images/fox.jpg" width="300">
+<img src="images/input/fox.jpg" width="300">
 
 **Segmented output**  
-<img src="images/Figure_1.png" width="300">
+<img src="images/output/fox.png" width="300">
 
 ## 📖 How it Works
 1. **Image Loading & Preprocessing**  
