@@ -5,8 +5,10 @@ It starts by using **K-Means clustering** to initialize the GMM parameters, then
 
 ## 📌 Project Structure
 ```
+
 .
 ├── main.py                # Main script to run the segmentation
+├── main.ipynb             # Jupyter Notebook version for step-by-step segmentation
 ├── utils/
 │   └── utils.py           # Helper functions (load_image, colors, etc.)
 ├── images/
@@ -14,6 +16,7 @@ It starts by using **K-Means clustering** to initialize the GMM parameters, then
 │   └── output/            # Segmented output images
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
+
 ```
 
 
