@@ -35,7 +35,7 @@ python main.py
 <img src="images/fox.jpg" width="300">
 
 **Segmented output**  
-<img src="output/segmented_sample.jpg" width="300">
+<img src="images/Figure_1.png" width="300">
 
 ## 📖 How it Works
 1. **Image Loading & Preprocessing**  
