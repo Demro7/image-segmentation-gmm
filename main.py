@@ -47,7 +47,7 @@ class GMM:
 if __name__ == '__main__':
     # Load image
     image_name = input('Input the image name: ')
-    image_path = 'images/{}.jpg'.format(image_name)
+    image_path = 'images/input/{}.jpg'.format(image_name)
     image = load_image(image_path)
     image_height, image_width, image_channels = image.shape
     image_pixels = np.reshape(image, (-1, image_channels))
